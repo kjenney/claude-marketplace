@@ -18,13 +18,13 @@
       }
     },
     {
-      "name": "devops-claude-plugin",
+      "name": "claude-devops",
       "source": {
         "source": "github",
-        "repo": "kjenney/devops-claude-plugin"
+        "repo": "kjenney/claude-devops"
       },
       "description": "A Claude Code plugin for performing DevOps troubleshooting tasks",
-      "version": "0.1.0",
+      "version": "0.1.2",
       "author": {
         "name": "Ken Jenney"
       }
