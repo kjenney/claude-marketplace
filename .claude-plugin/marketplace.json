@@ -24,7 +24,7 @@
         "repo": "kjenney/claude-devops"
       },
       "description": "A Claude Code plugin for performing DevOps troubleshooting tasks",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "author": {
         "name": "Ken Jenney"
       }
